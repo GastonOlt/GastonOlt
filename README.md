@@ -14,9 +14,8 @@ Actualmente enfocado en **Java, Spring Boot**, con experiencia en el desarrollo 
 ---
 
 ### 🧠 Actualmente aprendiendo
-- Spring Security (autenticación y JWT)
 - Buenas prácticas con pruebas unitarias (JUnit, Mockito)
-- Arquitectura de software y patrones de diseño
+
 
 ---
 
