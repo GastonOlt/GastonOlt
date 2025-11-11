@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Gastón
+#  ¡Hola! Soy Gastón
 
 💻 **Desarrollador de Software** apasionado por crear soluciones prácticas y bien estructuradas.  
 Actualmente enfocado en **Java, Spring Boot**, con experiencia en el desarrollo de aplicaciones web tanto en frontend como backend.
