@@ -27,6 +27,6 @@ Actualmente enfocado en **Java, Spring Boot**, con experiencia en el desarrollo 
 ---
 
 ### 📫 Contacto
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- ✉️ **Email:** tt@example.com  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/gaston-alejandro-olartes/))
+- ✉️ **Email:** gaston.alejandro.olartes@gmail.com  
 - 🌍 **GitHub:** [github.com/GastonOlt](https://github.com/GastonOlt)
