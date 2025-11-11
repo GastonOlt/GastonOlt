@@ -9,7 +9,7 @@ Actualmente enfocado en **Java, Spring Boot**, con experiencia en el desarrollo 
 - **Backend:** Java (Spring Boot), Python (Django), JavaScript(Express)
 - **Frontend:** JavaScript (Vanilla JS), HTML, CSS, Bootstrap
 - **Bases de datos:** PostgreSQL, MySQL
-- **Herramientas:** Git, GitHub, VS Code, IntelliJ IDEA, Postman
+- **Herramientas:** Git, GitHub, Postman
 
 ---
 
