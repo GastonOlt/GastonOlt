@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Gastón
 
-<!--
-**GastonOlt/GastonOlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de Software** apasionado por crear soluciones prácticas y bien estructuradas.  
+Actualmente enfocado en **Java, Spring Boot**, con experiencia en el desarrollo de aplicaciones web tanto en frontend como backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías que uso
+- **Backend:** Java (Spring Boot), Python (Django), JavaScript(Express)
+- **Frontend:** JavaScript (Vanilla JS), HTML, CSS, Bootstrap
+- **Bases de datos:** PostgreSQL, MySQL
+- **Herramientas:** Git, GitHub, VS Code, IntelliJ IDEA, Postman
+
+---
+
+### 🧠 Actualmente aprendiendo
+- Spring Security (autenticación y JWT)
+- Buenas prácticas con pruebas unitarias (JUnit, Mockito)
+- Arquitectura de software y patrones de diseño
+
+---
+
+### 📂 Algunos proyectos destacados
+- 🕒 **[TuTurno](https://github.com/GastonOlt/sistema-turnos-back)** — Sistema de gestión de turnos para peluquerías y barberías (Spring Boot + JS)
+- 🧾 **Gestor de Tareas** — App web para usuarios, categorías y tareas con login (Express + PostgreSQL)
+- 💪 **Gestión de Gimnasio** — Sistema de administración de clases, membresías y pagos (Python)
+
+---
+
+### 📫 Contacto
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- ✉️ **Email:** tt@example.com  
+- 🌍 **GitHub:** [github.com/GastonOlt](https://github.com/GastonOlt)
