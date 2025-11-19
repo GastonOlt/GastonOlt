@@ -14,7 +14,7 @@ Actualmente enfocado en **Java, Spring Boot**, con experiencia en el desarrollo 
 ---
 
 ### 🧠 Actualmente aprendiendo
-- Buenas prácticas con pruebas unitarias (JUnit, Mockito)
+- aprendiendo arquitectura de microservicios con Spring Boot
 
 
 ---
