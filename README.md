@@ -14,7 +14,7 @@ Actualmente enfocado en **Java, Spring Boot**, con experiencia en el desarrollo 
 ---
 
 ### 🧠 Actualmente aprendiendo
-- aprendiendo arquitectura de microservicios con Spring Boot
+- Aprendiendo arquitectura de microservicios con Spring Boot
 
 
 ---
